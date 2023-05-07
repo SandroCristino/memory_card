@@ -65,7 +65,7 @@ export default function MainContent(props) {
         return (
         <div>
             <h2>Get points by clicking on an image but don't click on any more then once</h2>
-            <div className='container'>
+            <div>
                 <div className='cardGrid'>
                      {cardsList.length > 0 && cardsList.map((card, index) => (
                             <div

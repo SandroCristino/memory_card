@@ -1,13 +1,8 @@
-.container {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-}
-
 .cardGrid {
     display: grid;
     grid-template-columns: repeat(4, 1fr);
     grid-gap: 20px;
+    grid-auto-flow: dense;
 }
 
 .cardItem{
@@ -29,5 +24,21 @@
 
 .cardItem:hover {
     box-shadow: 0 5px 5px 5px  red;
+}
+
+@media screen and (max-width: 800px) {
+    .cardGrid {
+        grid-template-columns: repeat(auto-fit, minmax(5rem, 1fr));
+    }
+
+    .cardItem {
+        height: 6rem;
+        width: 6rem;
+    }
+
+    h2 {
+        font-size: 1.2rem;
+    }
+
 }
 

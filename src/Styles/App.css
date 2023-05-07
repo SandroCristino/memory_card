@@ -1,5 +1,4 @@
 .App {
-  /* background-image: url('/images/background.jpg'); */
   display: flex;
   font-weight: bolder;
   flex-direction: column;
@@ -16,14 +15,15 @@
 header {
   background-color: rgba(0, 0, 0, 0.5);
   color: white;
-  min-width: 80rem;
+  width: 100vw;
   padding: 20px;
   font-size: 24px;
   font-size: 3rem;
 }
 
 main {
-  min-width: 80rem;
+  width: 100vw;
+  height: 100vh;
   padding: 20px;
   box-sizing: border-box;
   background-color: lightsteelblue;
@@ -35,7 +35,7 @@ footer {
   align-items: center;
   justify-content: center;
   background-color: rgba(0, 0, 0, 0.5);
-  min-width: 80rem;
+  width: 100vw;
   padding: 20px;
   font-size: 16px;
   color: white;
@@ -48,5 +48,10 @@ p {
 
 a {
   font-size: 2rem;
+}
+
+@media screen and (max-width: 1025px) {
+ 
+
 }
 
