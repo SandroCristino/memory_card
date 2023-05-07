@@ -10,6 +10,7 @@
   min-height: 100vh;
   font-family: sans-serif;
   text-align: center;
+  background-color: lightslategray;
 }
 
 header {
@@ -18,13 +19,14 @@ header {
   min-width: 80rem;
   padding: 20px;
   font-size: 24px;
+  font-size: 3rem;
 }
 
 main {
   min-width: 80rem;
   padding: 20px;
   box-sizing: border-box;
-  background-color: #fff;
+  background-color: lightsteelblue;
   box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.3);
 }
 

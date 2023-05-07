@@ -15,7 +15,7 @@
     width: 15rem;
     height: 15rem;
     overflow: hidden;
-    border: 10px solid black;
+    border: 0.36rem solid whitesmoke;
     border-radius: 40px;
     cursor: pointer;
 }
@@ -30,3 +30,4 @@
 .cardItem:hover {
     box-shadow: 0 5px 5px 5px  red;
 }
+
