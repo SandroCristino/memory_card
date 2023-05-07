@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/memory_card/static/css/main.59ade731.css",
+    "main.js": "/memory_card/static/js/main.b5403a15.js",
+    "static/media/Bird.jpg": "/memory_card/static/media/Bird.6df70b33399e0825c9a5.jpg",
+    "static/media/Cat.jpg": "/memory_card/static/media/Cat.dd4d73aa2e5a340cbce9.jpg",
+    "static/media/Tiger.jpg": "/memory_card/static/media/Tiger.288b3f006dfec52b58ce.jpg",
+    "static/media/Chicken.jpg": "/memory_card/static/media/Chicken.dbeb93df7db8e6f0cda4.jpg",
+    "static/media/Bison.jpg": "/memory_card/static/media/Bison.f4f6bb9201801276f261.jpg",
+    "static/media/Sheep.jpg": "/memory_card/static/media/Sheep.f582867df34371d913e5.jpg",
+    "static/media/Dog.jpg": "/memory_card/static/media/Dog.aa672efa9bca295b1455.jpg",
+    "static/media/Meerkat.jpg": "/memory_card/static/media/Meerkat.e92aafc1f0e5dc81601a.jpg",
+    "static/media/Owl.jpg": "/memory_card/static/media/Owl.8e8523de6919dc625270.jpg",
+    "static/media/Butterfly.jpg": "/memory_card/static/media/Butterfly.6d2b380faeb717630469.jpg",
+    "static/media/Ostrich.jpg": "/memory_card/static/media/Ostrich.c32a7b139dd0624eafc9.jpg",
+    "static/media/Goose.jpg": "/memory_card/static/media/Goose.4fa5be96249fd03b048c.jpg",
+    "index.html": "/memory_card/index.html",
+    "main.59ade731.css.map": "/memory_card/static/css/main.59ade731.css.map",
+    "main.b5403a15.js.map": "/memory_card/static/js/main.b5403a15.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.59ade731.css",
+    "static/js/main.b5403a15.js"
+  ]
+}
