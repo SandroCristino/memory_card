@@ -7,8 +7,8 @@
 
 .cardItem{
     position: relative;
-    width: 15rem;
-    height: 15rem;
+    width: 20rem;
+    height: 20rem;
     overflow: hidden;
     border: 0.36rem solid whitesmoke;
     border-radius: 40px;
