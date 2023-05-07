@@ -2,14 +2,14 @@
 
 ## This is a singleplayer memory game 
 
-<div style="display:flex;justify-content:center;align-items:center;">
+align-items:center;">
   <div style="margin-right:10px;">
     <img src="./src/Assets/Screenshot.png" alt="screenshot of website" width="400" />
   </div>
   <div>
     <img src="./src/Assets/Screenshot-mobile.png" alt="screenshot of website" width="" height='200' />
   </div>
-</div>
+
 
 #
 ## Built With 
