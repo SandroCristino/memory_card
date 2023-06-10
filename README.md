@@ -23,7 +23,7 @@
 
 ## Live Demo
 
-[Memory Card:]https://sandywezzy.github.io/memory_card/
+[Memory Card:]https://SandroCristino.github.io/memory_card/
 
 #
 
