@@ -34,8 +34,8 @@ function App() {
         />
       </main>
       <footer>
-        <p className='mx-3'>SandyWezzy on GitHub</p>
-        <a href="https://github.com/SandyWezzy" target="_blank" rel="noreferrer"><FaGithub /></a>
+        <p className='mx-3'>SandroCristino on GitHub</p>
+        <a href="https://github.com/SandroCristino" target="_blank" rel="noreferrer"><FaGithub /></a>
       </footer>
     </div>
   );
